@@ -10,7 +10,11 @@ body{
     line-height: 22px;
     font-weight: 400;
 }
+.container1{
+    background-color: #36393f;
+}
 .navbar{
+ padding-top: 20px;
     background-color: #36393f;
     display: flex;
     justify-content: space-between;
